@@ -98,7 +98,7 @@ class CreateParticles {
 		this.data = {
 
 			// text: 'FUTURE\nIS NOW',
-			text: 'JONO',
+			text: 'YO',
 			amount: 1500,
 			particleSize: 1,
 			particleColor: 0xffffff,
